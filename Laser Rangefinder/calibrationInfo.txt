@@ -1,0 +1,12 @@
+To calibrate:
+Get list of distance/offset values
+fit a linear model to distance vs. 1/offset
+calculate coefficients
+
+Next Step: make calibration tool
+
+1) Have the user move the cardboard to a certain distance
+2) Have user input the distance to shell
+3) Press enter and calculate offset of laser from center
+4) Repeat (1)-(3) for at least 8 or so distances
+5) Fit a model to distance vs. 1/offset

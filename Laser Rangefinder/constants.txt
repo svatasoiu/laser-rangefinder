@@ -1,0 +1,76 @@
+13611.2155695
+-10.5401699212
+0.989728970789
+
+Data Run #1
+_______________________
+Distance: 40cm | Offset: 277.304886362 pixels
+Distance: 40cm | Offset: 277.304886362 pixels
+Distance: 40cm | Offset: 277.304886362 pixels
+Distance: 40cm | Offset: 277.304886362 pixels
+Distance: 40cm | Average Offset: 277.304886362 pixels
+_______________________
+
+Data Run #2
+_______________________
+Distance: 33cm | Offset: 311.130197827 pixels
+Distance: 33cm | Offset: 311.16073017 pixels
+Distance: 33cm | Offset: 311.16073017 pixels
+Distance: 33cm | Offset: 311.16073017 pixels
+Distance: 33cm | Average Offset: 311.153097084 pixels
+_______________________
+
+Data Run #3
+_______________________
+Distance: 44cm | Offset: 249.80192153 pixels
+Distance: 44cm | Offset: 249.80192153 pixels
+Distance: 44cm | Offset: 249.80192153 pixels
+Distance: 44cm | Offset: 249.80192153 pixels
+Distance: 44cm | Average Offset: 249.80192153 pixels
+_______________________
+
+Data Run #4
+_______________________
+Distance: 48cm | Offset: 228.844925659 pixels
+Distance: 48cm | Offset: 228.72035327 pixels
+Distance: 48cm | Offset: 228.72035327 pixels
+Distance: 48cm | Offset: 227.853022802 pixels
+Distance: 48cm | Average Offset: 228.53466375 pixels
+_______________________
+
+Data Run #5
+_______________________
+Distance: 53cm | Offset: 212.275764043 pixels
+Distance: 53cm | Offset: 212.275764043 pixels
+Distance: 53cm | Offset: 212.275764043 pixels
+Distance: 53cm | Offset: 213.265093253 pixels
+Distance: 53cm | Average Offset: 212.523096345 pixels
+_______________________
+
+Data Run #6
+_______________________
+Distance: 58cm | Offset: 194.363062334 pixels
+Distance: 58cm | Offset: 194.363062334 pixels
+Distance: 58cm | Offset: 194.363062334 pixels
+Distance: 58cm | Offset: 194.363062334 pixels
+Distance: 58cm | Average Offset: 194.363062334 pixels
+_______________________
+
+Data Run #7
+_______________________
+Distance: 62cm | Offset: 186.70297266 pixels
+Distance: 62cm | Offset: 186.70297266 pixels
+Distance: 62cm | Offset: 186.903718529 pixels
+Distance: 62cm | Offset: 186.903718529 pixels
+Distance: 62cm | Average Offset: 186.803345594 pixels
+_______________________
+
+Data Run #8
+_______________________
+Distance: 68cm | Offset: 178.025279104 pixels
+Distance: 68cm | Offset: 177.792013319 pixels
+Distance: 68cm | Offset: 177.792013319 pixels
+Distance: 68cm | Offset: 178.025279104 pixels
+Distance: 68cm | Average Offset: 177.908646211 pixels
+_______________________
+
